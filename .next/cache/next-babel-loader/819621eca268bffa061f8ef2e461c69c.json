@@ -1,1 +1,0 @@
-{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nimport React from 'react';\nexport default (() => {\n  return /*#__PURE__*/_jsx(\"div\", {\n    children: \"\\u6211\\u662F\\u9519\\u8BEF\\u9875\\u9762\"\n  });\n});","map":null,"metadata":{},"sourceType":"module"}

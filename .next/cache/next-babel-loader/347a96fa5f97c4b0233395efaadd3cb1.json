@@ -1,1 +1,0 @@
-{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nimport React from 'react';\n\nvar fn1 = function fn1() {\n  return /*#__PURE__*/_jsx(\"div\", {\n    children: \"fn1\"\n  });\n};\n\nvar fn2 = function fn2() {\n  return /*#__PURE__*/_jsx(\"div\", {\n    children: \"fn2\"\n  });\n};\n\nexport { fn1, fn2 };","map":null,"metadata":{},"sourceType":"module"}
