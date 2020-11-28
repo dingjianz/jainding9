@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nimport React from 'react';\n\nconst Page404 = () => {\n  return /*#__PURE__*/_jsx(\"div\", {\n    children: /*#__PURE__*/_jsx(\"h1\", {\n      children: \"\\u8FD9\\u662F\\u4E00\\u4E2A404\\u9875\\u9762\"\n    })\n  });\n};\n\nexport default Page404;","map":null,"metadata":{},"sourceType":"module"}

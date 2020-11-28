@@ -1,0 +1,14 @@
+{
+  "@/components/dynamic/dynamicComponnet": [
+    {
+      "id": "XpxN",
+      "file": "static/chunks/14.5d53fca9f6f26b3d6bcf.js"
+    }
+  ],
+  "@/components/dynamic/hello.jsx": [
+    {
+      "id": "tuEw",
+      "file": "static/chunks/15.ba8bf8dcbfbbcba3e0ce.js"
+    }
+  ]
+}

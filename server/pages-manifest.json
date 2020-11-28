@@ -1,0 +1,13 @@
+{
+  "/404": "pages/404.html",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/_error": "pages/_error.js",
+  "/api/hello": "pages/api/hello.js",
+  "/blog": "pages/blog.html",
+  "/dynamic": "pages/dynamic.html",
+  "/": "pages/index.html",
+  "/useMemo": "pages/useMemo.html",
+  "/useReducer": "pages/useReducer.html",
+  "/useRef": "pages/useRef.html"
+}
