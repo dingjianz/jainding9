@@ -1,0 +1,1 @@
+(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[21],{tuEw:function(n,t,r){"use strict";r.r(t),r.d(t,"fn1",(function(){return i})),r.d(t,"fn2",(function(){return u}));var c=r("8xCJ"),i=(r("yDyU"),function(){return Object(c.jsx)("div",{children:"fn1"})}),u=function(){return Object(c.jsx)("div",{children:"fn2"})}}}]);

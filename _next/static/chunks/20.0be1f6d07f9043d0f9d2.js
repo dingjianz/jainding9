@@ -1,0 +1,1 @@
+(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[20],{XpxN:function(n,c,e){"use strict";e.r(c);var i=e("8xCJ");e("yDyU");c.default=function(){return Object(i.jsx)("div",{children:"DynamicComponnet"})}}}]);
